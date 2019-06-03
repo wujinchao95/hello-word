@@ -1,5 +1,5 @@
 # hello-word
-Just a test
+ a test
 
 Hi humans!
 Hubot here.
